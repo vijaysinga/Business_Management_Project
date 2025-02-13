@@ -1,4 +1,2 @@
 This is vi branch line 1
 This is vi branch line 2
-
-
